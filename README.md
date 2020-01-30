@@ -22,6 +22,8 @@ With airflow, we can overcome all these pain points.
 2. It has nice Ui which can be used to not only monitor but also debug the code using log files. It handles errors efficiently by trying to run the codes again an easily reprocess the historical jobs
 3. There is inbuilt system for notification which can be triggered for important events like uploading data files or completion of report generation process. Real time status of each task can also be tracked using the UI. It also creates gantt chart for business users that help in tracking the overall timeline of process.
 
+The below DAG was implemented using the [code](https://github.com/guptapiyush340/Airflow-Demo-Automation/blob/master/airflow_email.py)
+
 ![1574100207862](https://github.com/guptapiyush340/Airflow-Demo-Automation/blob/master/1.png)
 
 ## DAGs Overview
