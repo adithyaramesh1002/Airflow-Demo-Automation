@@ -16,10 +16,10 @@ The project joined the Apache Software Foundation’s Incubator program in 2016.
 
 We have 3 datasets namely, Train (the training set), Test (the testing set), and Resources (items requested along with each application or proposal).
 
-![1574100207862](https://github.com/guptapiyush340/Airflow-Demo-Automation/blob/master/3.png)
+![1574100207862](https://github.com/guptapiyush340/Airflow-Demo-Automation/blob/master/4.png)
 
 ## How to get Started
 
 Using all the features as it is rarely useful in data mining. To make this features more informative, we performed a range of feature engineering steps and performed text analysis on the essays and title of essays.
 
-![1574100207862](https://github.com/guptapiyush340/Airflow-Demo-Automation/blob/master/4.png)
+![1574100207862](https://github.com/guptapiyush340/Airflow-Demo-Automation/blob/master/3.png)
