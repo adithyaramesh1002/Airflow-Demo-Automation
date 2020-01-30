@@ -4,6 +4,8 @@
 Airflow is an open-source platform to programmatically author, schedule and monitor workflows. Airflow was started in 2014 at Airbnb 
 The project joined the Apache Software Foundation’s Incubator program in 2016. It is one fo the most intuitive way to automate and track repeatable tasks in the Analytics ecosystem.
 
+[Code] (https://github.com/guptapiyush340/Airflow-Demo-Automation/blob/master/airflow_email.py)
+
 ## Use Case
 
 Here you have a data provider, who has flat files which when uploaded into database will be used for analysis. After the files has been uploaded, Data Engineer, will process those files and make sure it’s available with data scientist to either run some models or perform basic aggregations. The summarized data will then be used by a business analyst to create a report or dashboard in excel or tableau for manager.
