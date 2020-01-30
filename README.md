@@ -6,11 +6,12 @@ The project joined the Apache Software Foundation’s Incubator program in 2016.
 
 ## Use Case
 
-Here you have a data provider, who has flat files which when uploaded into database will be used for analysis. After the files has been uploaded, Data Engineer, will process those files and make sure it’s available with data scientist to either run some models or perform basic aggregations. The summarize data will then be used by a business analyst to create a report or dashboard in excel or tableau for manager.
-As of today, there are number of pain points associated with each stakeholder in this scenario.
-Waiting time due to dependency on data provider and manual effort to start the process of report generation.
-There is cumbersome monitoring for Data scientist or Business Analyst, in case there is an error in code and lot of time is spent in debugging and identifying errors in code. 
-There is lack of transparency throughout process for manager and lot of back and forth to communicate the status of report.
+Here you have a data provider, who has flat files which when uploaded into database will be used for analysis. After the files has been uploaded, Data Engineer, will process those files and make sure it’s available with data scientist to either run some models or perform basic aggregations. The summarized data will then be used by a business analyst to create a report or dashboard in excel or tableau for manager.
+
+As of today, there are number of pain points associated with each stakeholder in this scenario:
+1. Waiting time due to dependency on data provider and manual effort to start the process of report generation.
+2. There is cumbersome monitoring for Data scientist or Business Analyst, in case there is an error in code and lot of time is spent in debugging and identifying errors in code. 
+3. There is lack of transparency throughout process for manager and lot of back and forth to communicate the status of report.
 
 ![1574100207862](https://github.com/guptapiyush340/Airflow-Demo-Automation/blob/master/2.png)
 
